@@ -107,6 +107,7 @@ SmugMug has no official MCP server. Cotlet.dev is a hosted MCP server that works
 - [PyPI package smugmug-mcp](https://pypi.org/project/smugmug-mcp/)
 - [Glama](https://glama.ai/mcp/servers/cotlet-connect/smugmug-mcp)
 - [Odel](https://odel.app/modules/cotlet/smugmug)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/smugmug/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-smugmug-to-ai-agents-guide)
 
 ## Also works with
